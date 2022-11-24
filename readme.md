@@ -1,4 +1,4 @@
-# A Bi-Level Cellular Genetic Algorithm Approach to Medical Data Classification - Used Datasets
+# A Bi-Level Cellular Genetic Algorithm Approach to Medical Data Classification - Datasets
 
 This repository contains the preprocessed datasets, used for experiments in the article "A Bi-Level Cellular Genetic Algorithm Approach to Medical Data Classification", by Eng. Matias Gabriel Rojas, PhD. Jessica Andrea Carballido, PhD. Ana Carolina Olivera and PhD. Pablo Javier Vidal.
 
